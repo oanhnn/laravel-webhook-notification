@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Nothing
 
 ### Fixed
-- Nothing
+- Fix link in CHANGELOG
 
 ### Security
 - Nothing
@@ -31,4 +31,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 First release
 
 
-[Unreleased]: https://github.com/oanhnn/laravel-logzio/compare/v0.1.0...develop
+[Unreleased]: https://github.com/oanhnn/laravel-webhook-notification/compare/v0.1.0...develop
