@@ -1,7 +1,11 @@
 # Introduction
 
-[![Build Status](https://travis-ci.org/oanhnn/laravel-webhook-notification.svg?branch=master)](https://travis-ci.org/oanhnn/laravel-webhook-notification)
-[![Coverage Status](https://coveralls.io/repos/github/oanhnn/laravel-webhook-notification/badge.svg?branch=master)](https://coveralls.io/github/oanhnn/laravel-webhook-notification?branch=master)
+[![Latest Version](https://img.shields.io/packagist/v/oanhnn/laravel-webhook-notification.svg)](https://packagist.org/packages/oanhnn/laravel-webhook-notification)
+[![Software License](https://img.shields.io/github/license/oanhnn/laravel-webhook-notification.svg)](LICENSE.md)
+[![Build Status](https://img.shields.io/travis/oanhnn/laravel-webhook-notification/master.svg)](https://travis-ci.org/oanhnn/laravel-webhook-notification)
+[![Coverage Status](https://img.shields.io/coveralls/github/oanhnn/laravel-webhook-notification/master.svg)](https://coveralls.io/github/oanhnn/laravel-webhook-notification?branch=master)
+[![Total Downloads](https://img.shields.io/packagist/dt/oanhnn/laravel-webhook-notification.svg)](https://packagist.org/packages/oanhnn/laravel-webhook-notification)
+[![Requires PHP](https://img.shields.io/travis/php-v/oanhnn/laravel-webhook-notification.svg)](https://travis-ci.org/oanhnn/laravel-webhook-notification)
 
 Easy send Webhook notification in Laravel 5.5+ Application
 
